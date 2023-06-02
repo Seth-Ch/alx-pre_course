@@ -1,1 +1,1 @@
-I hate ALX
+I am learning new skill atALX
